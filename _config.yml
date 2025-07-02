@@ -1,6 +1,6 @@
-url: "https://desarrolladores-inmobiliario.github.io" # the base hostname & protocol for your site
-title: desarrolladores inmobiliario
-description: Fraude, Marco Antonio Perez Alejo, Construyetucasa, Construyetudepa, University Depas, Puebla
+url: "https://construyetucasa.github.io/mx/" # the base hostname & protocol for your site
+title: construye tu casa
+description: Fraude, Marco Antonio Perez Alejo, Construye tu casa, Construye tu depa, University Depas, Puebla
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
